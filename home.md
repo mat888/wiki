@@ -15,7 +15,7 @@ dateCreated: 2021-11-09T07:50:58.627Z
 .cls-1{fill:rgb(247, 31, 61);}
 </style>
 
-Saito is a layer-1 blockchain that scales by fixing incentive misalignments in the consensus layers of all other blockchains. You can use Saito today to run web3 applications [directly in your browser](https://saito.io/arcade). If you are new to Saito you can read our [one page explanation](https://wiki.saito.io/en/consensus) of how Saito Consensus works, check out our [development roadmap](https://org.saito.tech/saito-roadmap-update/), or start down the Saito rabbit-hole with the [Saito whitepaper](https://saito.io/saito-whitepaper.pdf).
+Saito is a layer-1 blockchain that scales by fixing incentive misalignments in the consensus layers of all other blockchains. You can use Saito today to run web3 applications [directly in your browser](https://saito.io/redsquare). If you are new to Saito you can read our [one page explanation](https://wiki.saito.io/en/consensus) of how Saito Consensus works, check out our [development roadmap](https://org.saito.tech/saito-roadmap-update/), or start down the Saito rabbit-hole with the [Saito whitepaper](https://saito.io/saito-whitepaper.pdf).
 
 This wiki is intended as a community-editable resource and knowledge repository. If youd like to contribute, you can find all pages stored in markdown in our [Saito Wiki Github Repository](https://github.com/saitotech/wiki). Submit edits by making a push request with your proposed changes or emailing us at community@saito.tech. In order to help organize the site, we've divided the content into three main categories: 
 
@@ -23,7 +23,6 @@ This wiki is intended as a community-editable resource and knowledge repository.
   Saito Consensus includes details on the consensus mechanism that Saito uses to power its blockchain network. It includes discussions of the incentive problems that Saito fixes and explains why solving them requires paying for fee-collection rather than other gameable forms of work like mining and staking. 
   
 Saito is a layer-one blockchain that requires its blocks to contain a certain amount of “routing work”. Routing work is derived from transactions fees so in practice this means they need to contain a certain amount of money. How much depends on how long it has been since the last block and how many hops the transactions containing these fees have taken to reach the block producer.
-  
  
 In cybersecurity, an [attack vector](/consensus/attack-vectors)  is a method of achieving unauthorized network access to launch a cyber attack. Attack vectors allow cybercriminals to exploit system vulnerabilities to gain access to sensitive data, personally identifiable information (PII), and other valuable information accessible after a data breach. Saito is secure against classes of attack which have no defense mechanisms in other chains. This page explains how these mechanisms work
   
